@@ -227,7 +227,7 @@ PORTFOLIO
       yo.update(element, template())
     }
  		function openNewTab() {
-    var url = "www.google.com"
+    var url = "https://avirepus.github.io/quiz/"
     var win = window.open(url, '_blank')
     win.focus()
   }
